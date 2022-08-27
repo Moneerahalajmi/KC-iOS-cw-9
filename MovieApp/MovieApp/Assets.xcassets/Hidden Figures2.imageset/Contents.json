@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "The_official_poster_for_the_film_Hidden_Figures,_2016.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
